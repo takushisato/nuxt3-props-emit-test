@@ -1,2 +1,2 @@
-# Nuxt3のpropsとemitのテスト
+## Nuxt3のpropsとemitのテストサンプル
 
